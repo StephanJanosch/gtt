@@ -9,6 +9,7 @@ Please, use the below json User Groups and Tag Colors
   "gohr": "Bioinformatics Consultation/Analysis",
   "walker": "BioImage Informatics support",
   "nadar": "BioImage Informatics support",
+  "isebasti": "BioImage Informatics support",
   "moon": "SciDev support",
   "janosch": "SciDev support",
   "steinbac": "SciDev support",
